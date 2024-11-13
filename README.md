@@ -1,11 +1,12 @@
 # 0055002
 
 ## Top Links 👍
-- [Get Arc Jumpstart Badge for being part of the 0055002](https://aka.ms/preday-badge)
-- Join Raffle
-- Provide 0055002 feedback
-- Provide product feedback 
+- [Get Arc Jumpstart Badge for being part of the 0055002](https://aka.ms/preday-badge) 📛
+- Join Raffle 🥳
+- Provide 0055002 feedback ‼️
+- Provide product feedback ❓
 - [Join Adaptive Cloud Community](https://aka.ms/adaptivecloudcommunity) 👑
+- [Adaptive Cloud at Microsoft Ignite 2024](https://aka.ms/AdaptiveCloudAtIgnite) 🎸
 
 
 ## Arc Jumpstart 🔋
@@ -84,3 +85,52 @@ We'd love your feedback on adaptive cloud strategy, AI/ML, security, Kubernetes,
 Interested in participating in customer research on topics related to Microsoft Azure's adaptive cloud approach? Join our research participant panel through the link below.
 
 [Sign up for Azure User Research](https://ux.microsoft.com/panel/AzureHybrid)
+
+## Adaptive Cloud Community
+
+Once a month, the various Adaptive Cloud product groups at Microsoft will hold a call to showcase new features, talk through important topics and engage in a Q&A regarding hybrid, multicloud, and edge. The foundational goals of the call are highlighted below:
+
+- Provide the Adaptive Cloud community with product updates for products and services such as Azure Arc, Azure Stack HCI, Azure IoT, AKS and much more.
+- Host a short talk and/or demo on Azure Adaptive Cloud technologies and products technologies
+- Collect feedback from the community on issues, blockers, use cases, and questions related to Azure Adaptive Cloud technologies and products
+
+![Adaptive Cloud Overview](./img/adaptivecloud.png)
+
+### Who is the "community"? 💬
+
+If you are a customer, partner, Microsoft employee, or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and is public because our mission is just to spread the ❤️ for Azure Adaptive Cloud solutions and technologies.
+
+### Meetup agenda 📃
+
+Each monthly meetup will be 1 hour, don't be late, we have a lot to cover! 🤓
+
+- 2 minutes: Welcome
+- 45-50 minutes: Product updates
+- 5-10 minutes: “Ask us anything” and feedback discussion
+
+### Meeting links and recordings ⏺️
+
+| Asset      | Link        |
+|:-----------|:------------|
+| 🍪 Teams Channel - Guests | [If you are a guest, join the Microsoft Teams channel by submitting this form](https://aka.ms/AdaptiveCloudCommunityTeamsForm) |
+| 🍪 Teams Channel - Microsoft FTE | [If you are a Microsoft FTE, join the Microsoft Teams channel using this link](https://teams.microsoft.com/l/team/19%3a227a226ae75f4ffabc67f77a9d439d15%40thread.tacv2/conversations?groupId=f4ccf9df-0dc2-4282-a392-652117be03e7&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) |
+| 🍪 LinkedIn Group | [Join the Adaptive Cloud LinkedIn Group using this link](https://aka.ms/adaptivecloudlinkedin) |
+| 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations) |
+| 🎥 Meeting recordings | [Watch](https://aka.ms/ArcMeetup) |
+| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh) to put a recurring event on your calendar. |
+
+> **NOTE**: If you use Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
+
+1. Download the _.ics_ file
+2. Open Outlook for the web
+3. Drag and drop the _.ics_ file onto your calendar
+
+### Schedule 📅
+
+**2024 Upcoming Meetings**:
+
+- December 4th, 08:00 AM Pacific Time (PT)
+
+  - [JOIN US](https://aka.ms/JoinAdaptiveCloudCommunityCall)
+  - [Download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh) to put a recurring event on your calendar.
+
