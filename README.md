@@ -1,9 +1,9 @@
-# 0055002
+# Azure Arc Pre-Day
 
 ## Top Links 👍
 - [Get Arc Jumpstart Badge for being part of the 0055002](https://aka.ms/preday-badge) 📛
 - Join Raffle 🥳
-- Provide 0055002 feedback ‼️
+- Provide Azure Arc Pre-Day feedback ‼️
 - Provide product feedback ❓
 - [Join Adaptive Cloud Community](https://aka.ms/adaptivecloudcommunity) 👑
 - [Adaptive Cloud at Microsoft Ignite 2024](https://aka.ms/AdaptiveCloudAtIgnite) 🎸
