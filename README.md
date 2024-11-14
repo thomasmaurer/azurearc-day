@@ -1,7 +1,7 @@
 # Azure Arc Pre-Day
 
 ## Top Links 👍
-- [Get Arc Jumpstart Badge for being part of the 0055002](https://aka.ms/preday-badge) 📛
+- [Get Arc Jumpstart Badge for being part of the Azure Arc Pre-Day](https://aka.ms/preday-badge) 📛
 - [Join Raffle](https://aka.ms/preday-prize)🥳
 - Provide product feedback ❓
 - [Join Adaptive Cloud Community](https://aka.ms/adaptivecloudcommunity) 👑
