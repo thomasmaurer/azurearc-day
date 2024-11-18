@@ -38,6 +38,7 @@
 ### Thomas Maurer
 - [LinkedIn](https://www.linkedin.com/in/thomasmaurer2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BiIT3NuVUS1CvnpyLCPuViQ%3D%3D)
 - [ThomasMaurer.ch](https://www.thomasmaurer.ch)
+- [Thomas Maurer YouTube](https://www.youtube.com/c/ThomasMaurerCloud)
 
 ## Ignite Sessions 📺
 
