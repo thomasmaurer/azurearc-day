@@ -6,6 +6,7 @@
 - [Provide product feedback](https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=Marketing&origin=NeoPortalPage&subpage=design&id=v4j5cvGGr0GRqy180BHbR-oG_5sTmz9Ks_xZNV4ZqehUQVVXMlo5SjVPNTdORDBNMUkySUk3NEVVMC4u) ❓
 - [Join Adaptive Cloud Community](https://aka.ms/adaptivecloudcommunity) 👑
 - [Adaptive Cloud at Microsoft Ignite 2024](https://aka.ms/AdaptiveCloudAtIgnite) 🎸
+- [Scripts](https://github.com/janegilring/Presentations/tree/master/2024%20Microsoft%20Ignite/PREB12%20-%20Optimize%20and%20secure%20hybrid%20infrastructure%20with%20a%20unified%20control%20plane)
 
 
 ## Arc Jumpstart 🔋
@@ -25,6 +26,18 @@
 
 ## Learning Path 🎓
 - https://aka.ms/LearnHybridArc
+
+## Speakers 🔊
+
+### Jan Egil Ring 
+- [LinkedIn](https://www.linkedin.com/in/janegilring/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B5L%2BD5gjVTbeMpk4eBrHAVQ%3D%3D)
+### Venkata Chintala
+- [LinkedIn](https://www.linkedin.com/in/vchintala/)
+### Zaid Mohammad 
+- [LinkedIn](https://www.linkedin.com/in/zaidmohd/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BiIT3NuVUS1CvnpyLCPuViQ%3D%3D)
+### Thomas Maurer
+- [LinkedIn](https://www.linkedin.com/in/thomasmaurer2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BiIT3NuVUS1CvnpyLCPuViQ%3D%3D)
+- [ThomasMaurer.ch](https://www.thomasmaurer.ch)
 
 ## Ignite Sessions 📺
 
