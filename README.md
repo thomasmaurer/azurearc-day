@@ -3,7 +3,7 @@
 ## Top Links 👍
 - [Get Arc Jumpstart Badge for being part of the Azure Arc Pre-Day](https://aka.ms/preday-badge) 📛
 - [Join Raffle](https://aka.ms/preday-prize)🥳
-- Provide product feedback ❓
+- [Provide product feedback](https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=Marketing&origin=NeoPortalPage&subpage=design&id=v4j5cvGGr0GRqy180BHbR-oG_5sTmz9Ks_xZNV4ZqehUQVVXMlo5SjVPNTdORDBNMUkySUk3NEVVMC4u) ❓
 - [Join Adaptive Cloud Community](https://aka.ms/adaptivecloudcommunity) 👑
 - [Adaptive Cloud at Microsoft Ignite 2024](https://aka.ms/AdaptiveCloudAtIgnite) 🎸
 
